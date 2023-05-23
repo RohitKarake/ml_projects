@@ -18,3 +18,4 @@ The Repository consists of folloing projects:
 - Finance Domain Project (Predict Fradulent Transactions)
 - Recommendation Project (Movies Recommendation)
 - Regression Project (Advanced House Price Prediction)
+- Company Bankruptcy Prediction
